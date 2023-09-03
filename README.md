@@ -1,6 +1,11 @@
 # Teste-de-express-o-parentizada
 Atividade da faculdade
 
+Criado por:
+Cristian Rodolfo
+Guilherme Oliveira
+Ruan Patrick
+
 Para testar se uma expressão é bem parentizada, implemente na linguagem Java e utilizando a classe Stack e JOptionPane, o seguinte algoritmo de parentização a seguir:  
 1. Criar a pilha de parêntesis P vazia (use um vetor com n posições de tamanho fixo ou um vetor dinâmico). 
 2. Criar a função pop(P, sym), que empilha um caractere lido da expressão analisada na pilha P, passando como parâmetro a pilha P e o caractere lido sym. 
