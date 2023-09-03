@@ -2,8 +2,8 @@
 Atividade da faculdade
 
 Criado por:
-Cristian Rodolfo
-Guilherme Oliveira
+Cristian Rodolfo,
+Guilherme Oliveira,
 Ruan Patrick
 
 Para testar se uma expressão é bem parentizada, implemente na linguagem Java e utilizando a classe Stack e JOptionPane, o seguinte algoritmo de parentização a seguir:  
